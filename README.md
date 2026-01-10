@@ -1,4 +1,4 @@
-# gallery
+# Chobi
 a GNOME gallery app demo 
 
 
