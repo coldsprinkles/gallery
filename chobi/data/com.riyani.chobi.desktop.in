@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=chobi
+Exec=chobi
+Icon=com.riyani.chobi
+Terminal=false
+Type=Application
+Categories=Utility;
+Keywords=GTK;
+StartupNotify=true
+DBusActivatable=true

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="chobi">
+	<schema id="com.riyani.chobi" path="/com/riyani/chobi/">
+	  <key name="server-url" type="s">
+      <default>'http://localhost:2283'</default>
+      <summary>Immich server URL</summary>
+      <description>The URL of the Immich server to use.</description>
+    </key>
+	  <key name="picture-folders" type="as">
+      <default>[]</default>
+      <summary>Folders</summary>
+      <description>The folders to use.</description>
+    </key>
+	</schema>
+</schemalist>
