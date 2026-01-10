@@ -1,0 +1,8 @@
+# List of source files containing translatable strings.
+# Please keep this file sorted alphabetically.
+data/com.riyani.chobi.desktop.in
+data/com.riyani.chobi.metainfo.xml.in
+data/com.riyani.chobi.gschema.xml
+src/main.py
+src/window.py
+src/window.ui
